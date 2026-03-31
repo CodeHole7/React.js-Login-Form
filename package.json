@@ -14,7 +14,7 @@
     "react-facebook-login": "^4.1.1",
     "react-google-login": "^5.0.4",
     "react-hint": "^3.2.0",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-social-login": "^3.4.4",
     "react-swipeable-views": "^0.13.3",
     "react-tooltip": "^3.10.0",
